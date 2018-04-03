@@ -1,0 +1,5 @@
+{
+  "name": "plugin/voicewp",
+  "description": "Alley Interactive VoiceWP for Alexa integration",
+  "type": "wordpress-plugin"
+}
