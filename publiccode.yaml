@@ -1,0 +1,21 @@
+name: "plugin-voicewp"
+
+publiccodeYmlVersion: 1.0
+url: "https://github.com/OpenWebconcept/plugin-voicewp"
+
+platforms:
+  - "web"
+
+categories:
+  - "application-development"
+
+softwareType: "softwareAddon"
+
+description:
+  localisedName: "VoiceWP"
+  shortDescription: "VoiceWP is a WordPress plugin that integrates with Amazon Alexa to create and enable the creation of Alexa skills."
+  longDescription: "VoiceWP is a WordPress plugin that integrates with Amazon Alexa to create and enable the creation of Alexa skills."
+
+nl:
+  commonground:
+    layerType: "service"
